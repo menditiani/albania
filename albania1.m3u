@@ -7,3 +7,5 @@ http://tone81461.cdn-akm.me/live/989768585b22/533b5ec153/1659359.ts
 http://tone81461.cdn-akm.me/live/989768585b22/533b5ec153/1659358.ts
 #EXTINF:-1 group-title="Shqip",#EXTINF:-1 Klan KosovA
 http://tone81461.cdn-akm.me/live/989768585b22/533b5ec153/294486.ts
+EXTINF:-1 group-title="Shqip",#EXTINF:-1 All
+http://tone81461.cdn-akm.me/get.php?username=989768585b22&password=533b5ec153&type=m3u_plus&output=ts
