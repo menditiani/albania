@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Albania FTA",Albania FTA Channels
+https://iptv-org.github.io/iptv/countries/al.m3u
+#EXTINF:-1 group-title="Kosovo FTA",Kosovo FTA Channels
+https://iptv-org.github.io/iptv/countries/xk.m3u
+#EXTINF:-1 group-title="",#EXTINF:-1 Big Brother Vip KosovA 1
+http://tone81461.cdn-akm.me/live/989768585b22/533b5ec153/1659359.ts
+#EXTINF:-1 group-title="",#EXTINF:-1 Big Brother Vip KosovA 2
+http://tone81461.cdn-akm.me/live/989768585b22/533b5ec153/1659358.ts
